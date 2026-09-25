@@ -1,1 +1,0 @@
-# nextar-capstone-ai-rosetta
