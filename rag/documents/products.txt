@@ -1,0 +1,15 @@
+NOVATECH PRODUCTS AND SERVICES
+
+NovaTech offers several technology products and services.
+
+NovaCloud is NovaTech's cloud storage service. It allows users to store, synchronize, and access files across multiple devices. The standard plan provides 100 GB of cloud storage.
+
+NovaNote is a productivity application designed for taking notes, creating task lists, and organizing personal projects. It is available on Windows, Android, and iOS.
+
+NovaBook Air is NovaTech's lightweight laptop designed for students and professionals. It features a 14-inch display, 16 GB of RAM, and 512 GB of SSD storage.
+
+NovaSupport is NovaTech's customer support service. Customers can contact the support team through email or the company's online support portal. Standard support requests are normally answered within 24 hours.
+
+NovaTech also provides customized software development services for small businesses. These services include web applications, mobile applications, database systems, and cloud integrations.
+
+NovaTech plans to expand its cloud services and introduce additional productivity tools in the future.
